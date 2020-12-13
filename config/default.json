@@ -1,0 +1,3 @@
+{
+  "mongoURi": "mongodb+srv://alex123:alex123@post.kwynt.mongodb.net/post?retryWrites=true&w=majority"
+}
